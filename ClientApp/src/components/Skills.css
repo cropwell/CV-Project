@@ -1,0 +1,19 @@
+﻿
+
+.About {
+    margin: 200px;
+    background: black;
+    text-emphasis-color: white;
+    margin-block: 200px;
+}
+
+side {
+    position: fixed;
+    margin-left: 150px;
+}
+
+
+.img {
+    width: 120px;
+    height: 120px;
+}
