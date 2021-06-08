@@ -29,7 +29,7 @@ export class NavMenu extends Component {
         <div className="sidenav">
           <ul>
 
-            <li><div><img style={{ height: "100", width: "120px" }}src="https://i.imgur.com/SYwYfae.jpg"/></div></li>
+            <li><div><img style={{ height: "100", width: "120px" }}src="https://i.imgur.com/SYwYfae.jpg" alt="profile"/></div></li>
 
             <li><a tag={Link} className="text-light navbox" to="/" href="#home"><h3><FaHome /></h3>Home</a></li>
             <li><a tag={Link} className="text-light navbox" to="/About" href="#about" style={{ height: "100px" }}><h3><FaUserAlt /></h3>About</a></li>
