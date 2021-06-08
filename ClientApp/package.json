@@ -1,8 +1,8 @@
 {
-  "homepage": "https://cropwell.github.io.cv-project",
   "name": "webcv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cropwell.github.io/Cv-Project",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "jquery": "^3.5.1",
