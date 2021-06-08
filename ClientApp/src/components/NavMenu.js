@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import { Collapse, Container, Nav, Navbar, NavbarBrand, NavbarToggler, NavItem, NavLink } from 'reactstrap';
 import { Link } from 'react-router-dom';
 import './NavMenu.css';
 import { FaHome, FaUserAlt, FaEnvelope, FaCertificate } from 'react-icons/fa';
-import { img2 } from './images/img2.png'
 
 
 export class NavMenu extends Component {
