@@ -2,6 +2,9 @@
 
 This is a schoolproject showcasing a personal CV webpage
 
+Inspiritation for this project is from 
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_dark_portfolio&stacked=h
+where I tried to structure my design similarly to theirs but it differs as my project were done with React
 
 For Visual Studio:
 
